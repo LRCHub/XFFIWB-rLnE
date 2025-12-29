@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "melting",
+  "base_artist": "百鬼あやめ",
+  "createdAt": "2025-12-29T05:41:31.377140Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Melting",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Melting_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Melting",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Melting_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Melting Ice",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/03_Melting_Ice_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Melting Ice (The Chaotic Good Remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/04_Melting_Ice_(The_Chaotic_Good_Remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Melting Pot",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/05_Melting_Pot_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Seed / Melting Pot / Web (Live On BBC Radio One's Worldwide Show With Gilles Peterson)",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/06_The_Seed___Melting_Pot___Web_(Live_On_BBC_Radio_One's_Worldwide_Show_With_Gilles_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Seed\u0000Melting Pot\u0000Web (Live on BBC Radio One's Worldwide Show with Gilles Peterson)",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/07_The_Seed\u0000Melting_Pot\u0000Web_(Live_on_BBC_Radio_One's_Worldwide_Show_with_Gilles_Pet_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Melting On the Meadow",
+      "artist": "Black Moth Super Rainbow",
+      "has_synced": false,
+      "path": "select/08_Melting_On_the_Meadow_Black_Moth_Super_Rainbow.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Melting In The Sun",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/09_Melting_In_The_Sun_INXS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "There's a River in the Valley Made of Melting Snow",
+      "artist": "A Silver Mt. Zion",
+      "has_synced": false,
+      "path": "select/10_There's_a_River_in_the_Valley_Made_of_Melting_Snow_A_Silver_Mt._Zion.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "There's A River in the Valley Made of Melting Snow",
+      "artist": "Thee Silver Mountain Reveries",
+      "has_synced": false,
+      "path": "select/11_There's_A_River_in_the_Valley_Made_of_Melting_Snow_Thee_Silver_Mountain_Reveries.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Melting On The Meadow (Start A People Outtake, 2003)",
+      "artist": "Black Moth Super Rainbow",
+      "has_synced": false,
+      "path": "select/12_Melting_On_The_Meadow_(Start_A_People_Outtake,_2003)_Black_Moth_Super_Rainbow.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Melting Block",
+      "artist": "POLIÇA",
+      "has_synced": true,
+      "path": "select/13_Melting_Block_POLIÇA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Face Melting",
+      "artist": "Choir of Young Believers",
+      "has_synced": true,
+      "path": "select/14_Face_Melting_Choir_of_Young_Believers.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Melting Pot",
+      "artist": "Culture Club",
+      "has_synced": true,
+      "path": "select/15_Melting_Pot_Culture_Club.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Melting Pot (Bonus Track)",
+      "artist": "Culture Club",
+      "has_synced": true,
+      "path": "select/16_Melting_Pot_(Bonus_Track)_Culture_Club.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "melting",
+      "artist": "百鬼あやめ",
+      "has_synced": false,
+      "path": "select/pl_01_melting_百鬼あやめ.txt"
+    }
+  ]
+}
